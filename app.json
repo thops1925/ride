@@ -4,11 +4,11 @@
     "slug": "ride",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/thopz.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/thopz.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
